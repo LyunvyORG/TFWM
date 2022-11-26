@@ -3,7 +3,7 @@ new Docute({
   sourcePath: '/docs/',
   highlight: ['typescript', 'bash', 'json', 'markdown', 'yaml', 'html', 'css', 'javascript', 'diff'],
   router: { mode: 'history' },
-  editLinkBase: 'https://github.com/egoist/docute/tree/master/website/docs',
+  editLinkBase: 'https://github.com/LyunvyORG/TFWM/tree/master/docs',
   editLinkText: 'Edit this page on GitHub',
   detectSystemDarkTheme: true,
   darkThemeToggler: true,
